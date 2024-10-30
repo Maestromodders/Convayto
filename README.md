@@ -11,9 +11,9 @@
   </h3>
 
   <div align="center">
-    <a href="https://github.com/CodePapa360/Convayto/issues">Report Bug</a>
+    <a href="https://github.com/CodeWithAlamin/Convayto/issues">Report Bug</a>
     •
-    <a href="https://github.com/CodePapa360/Convayto/pulls">Request Feature</a>
+    <a href="https://github.com/CodeWithAlamin/Convayto/pulls">Request Feature</a>
   </div>
 
   <hr>
@@ -25,10 +25,10 @@
 <!-- Badges -->
 <div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/CodePapa360?style=flat&logo=x)](https://x.com/CodePapa360)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/CodePapa360)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CodeWithAlamin?style=flat&logo=x)](https://x.com/CodeWithAlamin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/CodeWithAlamin)
 
-![version](https://img.shields.io/github/package-json/v/CodePapa360/Convayto?color=blue)
+![version](https://img.shields.io/github/package-json/v/CodeWithAlamin/Convayto?color=blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 </div>
@@ -300,9 +300,9 @@ To contribute to Convayto, follow these steps:
 
 ## Author
 
-<img src="https://github.com/CodePapa360.png" alt="Photo" width="50" height="auto" style="border-radius: 50%;">
+<img src="https://github.com/CodeWithAlamin.png" alt="Photo" width="50" height="auto" style="border-radius: 50%;">
 
 I'm **Alamin**, a passionate web developer constantly learning and building projects. Connect with me on LinkedIn and Twitter.
 
-- LinkedIn: [CodePapa360](https://www.linkedin.com/in/codepapa360)
-- X (Twitter): [CodePapa360](https://twitter.com/CodePapa360)
+- LinkedIn: [CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- X (Twitter): [CodeWithAlamin](https://twitter.com/CodeWithAlamin)

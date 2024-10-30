@@ -4,7 +4,7 @@ function Copyright() {
       <p className="text-center opacity-80">
         © Copyright by{" "}
         <a
-          href="https://www.linkedin.com/in/codepapa360"
+          href="https://www.linkedin.com/in/CodeWithAlamin"
           target="_blank"
           rel="noreferrer"
           className="text-blue-500 underline"
